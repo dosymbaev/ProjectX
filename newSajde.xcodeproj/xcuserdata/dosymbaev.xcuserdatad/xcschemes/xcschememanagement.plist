@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Hamd Widget.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>newSajde.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>711831091D2C901900B1C321</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7118311D1D2C901900B1C321</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>711831281D2C901900B1C321</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>719835641D3CDC1B006EBD6F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
